@@ -1,7 +1,3 @@
-Absolutely — here’s your final, polished **🌱 Day 10 of My Machine Learning Journey** with **Kaggle** and **Jupyter in VS Code** included:
-
----
-
 ## 🌱 Day 10 of My Machine Learning Journey
 
 Welcome to Day 10 of my ML journey!
